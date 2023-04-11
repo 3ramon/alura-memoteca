@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Aprendendo angular!!!",
+      "autoria": "Ramon",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Testando a criação",
+      "autoria": "Eu Mesmo",
+      "modelo": "modelo3",
+      "id": 2
+    },
+    {
+      "conteudo": "Testando o Router",
+      "autoria": "Ramon",
+      "modelo": "modelo2",
+      "id": 3
+    },
+    {
+      "conteudo": "Testando a edição AGORA FUNCIONA",
+      "autoria": "OLHAAAA",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
